@@ -1,7 +1,7 @@
 ## To start the app:
 
-`npm start`
-App will start at localhost:3000
+1. `npm install`
+2. `npm start` Then App will start at localhost:3000
 
 \*A basic data table displaying some information from the API.
 
